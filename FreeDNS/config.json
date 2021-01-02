@@ -1,5 +1,5 @@
 {
-  "name": "FreeDNS",
+  "name": "freedns",
   "version": "0.2",
   "slug": "freedns",
   "description": "Free dynamic DNS hosted on freedns.afraid.org",
